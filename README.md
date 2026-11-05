@@ -70,11 +70,6 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 ## Program
 
-### Developed By:
-Name: ASHWIN BAALAJI V K  
-
-### Register No:
-212225230026
 
 ### Grayscale Histogram Equalization
 
